@@ -13,3 +13,8 @@ Dataset : data.xlsx
 - Rates table contains rates corresponding to exit zone and annual quantity
 
 
+File Organization:
+portfolio.py: contains Portfolio class with all required functions
+main.py: driver code to instantiate Portfolio for given data
+bencharmking_script.ipynb: Jupyer notebook with visualization and benchmarking for execution speed
+
