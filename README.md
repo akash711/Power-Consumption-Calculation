@@ -14,7 +14,7 @@ Dataset : data.xlsx
 
 
 File Organization:
-portfolio.py: contains Portfolio class with all required functions
-main.py: driver code to instantiate Portfolio for given data
-bencharmking_script.ipynb: Jupyer notebook with visualization and benchmarking for execution speed
+- portfolio.py: contains Portfolio class with all required functions
+- main.py: driver code to instantiate Portfolio for given data
+- bencharmking_script.ipynb: Jupyer notebook with visualization and benchmarking for execution speed
 
